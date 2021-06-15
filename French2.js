@@ -99,4 +99,4 @@ chatLangCallback({
     "S_REQUEST": "Entrez une adresse email:",
     "S_ENTER_EMAIL": "Adresse e-mail..."
   }
-});
+})
