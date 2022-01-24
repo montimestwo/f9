@@ -20,7 +20,7 @@ chatLangCallback({
     "S_NAME_LABEL": "Name",
     "S_EMAIL_LABEL": "Adresse e-mail",
     "S_QUESTION_LABEL": "Question",
-    "S_START_BUTTON": "Beginne chat",
+    "S_START_BUTTON": "Démarrer le clavardage",
     "S_SEND_BUTTON": "Démarrer la discussion",
     "S_COMMENTS_LABEL": "Commentaires supplémentaires"
   },
